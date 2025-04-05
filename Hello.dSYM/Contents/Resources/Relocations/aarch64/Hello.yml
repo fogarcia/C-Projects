@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/fostergarcia/Documents/Personal/Projects/C:C++ Projects/Hello'
+relocations:     []
+...
